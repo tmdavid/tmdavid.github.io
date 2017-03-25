@@ -8,11 +8,6 @@ redirect_from:
 ---
 Most of my blog posts can be found in Medium, which is a cool and great place to have blog posts.
 
-<figure>
-  <img src="/images/grad.jpg" alt="grad" width="150" height="100">
-  <figcaption>Graduation day!.</figcaption>
-</figure>
-
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -23,3 +18,10 @@ Most of my blog posts can be found in Medium, which is a cool and great place to
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+<figure>
+  <img src="/images/grad.jpg" alt="grad" width="150" height="100">
+  <figcaption>Graduation day!.</figcaption>
+</figure>
+
+
