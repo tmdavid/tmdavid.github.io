@@ -28,6 +28,7 @@ Personal info
 =========
 I have some hobbies, in case you still here. I love to ski, well lately I like more watching great freeride skiers than anything else. I have a great taste in music some might say (specially the ones with same taste). And since I'm catalan, I like to eat, like way too much. I used to play hokey which is a wonderful sport in which only are allowed to play Argetinian, Portuguese, and Catalan people. I mean not allowed but, we good at I meant.
 
+![](/images/ari_jo.jpg)
 
 Thanks to
 ------
