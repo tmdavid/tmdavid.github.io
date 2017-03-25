@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website. I'm not sure why you are here, and for how long will you be here, but welcome.
 I'm a recurrent genetic applied machine learning engineer. Not to mention how deep convoluted into research I am for my job.
 
-!(ski.jpg)
+!(/images/ski.jpg)
 
 More about me. Profesional/Academic info.
 ======
