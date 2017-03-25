@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Engineering, La Salle University 2014
+* M.S. in Artificial Intelligence, Katholieke Universiteit Leuven, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016: Applied Machine Learning / Researcher
+  * Goldenspear
+  * Duties included: NLP, CV.... anything that comes handy, its an startup.
+  * Proud to have helped in a Master Thesis work for a colleague. I even was in the acknoledgments! 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015: Researching in Deep Learning
+  * KU Leuven
+  * Duties included: research in Natural Language Inference.
+  * Supervisor: Geert Heyman.
+
+* Early 2014: Issue handler.
+  * Onebox
+  * Duties included: Handling DB related issues.
+    * SQL, Groovy...
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* I can code.
+  * Python.
+    * Pandas, Sci-kit, spaCy, nltk...
+    * Data visualization with matplotlib amongst others
+  * Others like c, c++, java... many stuff that I'd need to catchup at some point.
+  
+* Deep Learning
+  * Python frameworks
+    * High-level: keras
+    * Low-level: Tensorflow, PyTorch, theano.
+
+* Non-technical ones:
+  * Teamplayer. 
+  * Self-motivated, if in the right field, like everyone. 
+  * I'm up-to-date (or as much as I can) in reading scientific papers in deep learning, specially applied to NLP.
 
 Publications
 ======
@@ -56,4 +69,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I led a couple of World of Warcraft guilds, some succesful, some not so much.
+* I'm in few whatsapp groups, can't handle many meetings a day tbh.
+* When I was a kid, I sometimes was the captain of my Hockey team.
