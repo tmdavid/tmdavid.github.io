@@ -18,7 +18,8 @@ I'm currently working at Goldenspear, a fashion company. Seriously, a fashion on
 
 I'm from Barcelona, sunny Barcelona. I got my undergrad in La Salle University, and I kinda enjoyed the ride there, but I moved to Leuven to do my Masters degree in Artificial Intelligence. During my undergrad I discovered those things called neurons... artificial neurons, you know, the ones that are used to build superhuman emulated deep brains. Since there, I've been in love with the raw power this neural networks have. I'm not sure if we are going to make the world a better place, but hey, it's fun to see the loss curve go down, draw some random samples to test, and then cherry pick the ones that look great to present them as great human advance. Besides that I'm really into trying to understand human language. I, and this is serious, think language is going to be the last barrier to be truly broken by AI, still think we are far away from it. Nonetheless I'm amazed by how we trivialize something as complex as it is language, into a task that we all do with no effort. Sarcasm and irony. That is the great last barrier. 
 In Leuven I did a little bit of research in Recurrent Neural Networks, and I kinda felt more in love with them. Now I'm amazed with the seq2seq architecture.
-1. LSTM. Sepp Hochreiter, Juurgen Schmidhuber. 1997
+1. LSTM. Sepp Hochreiter, Juurgen Schmidhuber. 1997.
+
 I cited just in case. No troubles, we good here.
 
 Personal info
