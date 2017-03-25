@@ -1,5 +1,5 @@
 ---
-title: 'leuven_firstweeks'
+title: 'Leuven first weeks'
 date: 2015-10-14
 permalink: /posts/2015/10/leuven_firstweeks/
 tags:
