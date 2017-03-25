@@ -18,7 +18,7 @@ Work experience
 ======
 * 2016: Applied Machine Learning / Researcher
   * Goldenspear
-  * Duties included: NLP, CV.... anything that comes handy, its an startup.
+  * Duties included: NLP, CV.... anything that comes handy, its a startup.
   * Proud to have helped in a Master Thesis work for a colleague. I even was in the acknoledgments! 
 
 * 2015: Researching in Deep Learning
