@@ -1,0 +1,10 @@
+---
+title: 'rant'
+date: 2016-12-14
+permalink: /posts/2016/12/rant/
+tags:
+  -rant
+---
+
+A yuge rant I usually have to the so-called experts in nothing.
+[the rant](https://medium.com/@hadrielle/linkedin-or-the-art-of-pretending-to-be-an-expert-46083b052600#.a174653ds)
