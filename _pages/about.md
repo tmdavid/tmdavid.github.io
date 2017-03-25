@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website. I'm not sure why you are here, and for how long will you be here, but welcome.
 I'm a recurrent genetic applied machine learning engineer. Not to mention how deep convoluted into research I am for my job.
 
-More about me (if it aint enough)
+More about me. Profesional/Academic info.
 ======
 
 I'm currently working at Goldenspear, a fashion company. Seriously, a fashion one. There I develop some fancy NLP x DL stuff, and some times I dig into computer vision. And even less often I dig into software design, and web design or database stuff. It's a startup, what were you expecting. But enough about me, lets talk about you.....jk, this is my web, if you want to talk about you, get your own, just like I did.
