@@ -59,4 +59,4 @@ Service and leadership
 ======
 * I led a couple of World of Warcraft guilds, some succesful, some not so much.
 * I'm in few whatsapp groups, can't handle many meetings a day tbh.
-* When I was a kid, I sometimes was the captain of my Hockey team.
+* When I was a kid, I sometimes was the captain of my Hockey team. 
